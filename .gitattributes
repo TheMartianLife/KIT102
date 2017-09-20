@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Set language for repository
+*.docx linguist-documentation
+*.sql linguist-language=SQL
